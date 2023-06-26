@@ -40,18 +40,19 @@
     "url": "https://presentations.krastanov.org",
     "icon": "https://icons.duckduckgo.com/ip3/presentations.krastanov.org.ico",
     "slug": "presentations",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.04%",
     "time": 292,
     "timeDay": 378,
     "timeWeek": 283,
     "timeMonth": 295,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2023-06-26": 3,
       "2023-05-08": 1092,
       "2023-05-07": 312
     }
@@ -61,18 +62,19 @@
     "url": "https://jupyter.krastanov.org",
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.krastanov.org.ico",
     "slug": "jupyter",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.04%",
     "time": 424,
     "timeDay": 453,
     "timeWeek": 357,
     "timeMonth": 466,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2023-06-26": 3,
       "2023-05-08": 1092,
       "2023-05-07": 312
     }
@@ -82,18 +84,19 @@
     "url": "https://pluto.krastanov.org",
     "icon": "https://icons.duckduckgo.com/ip3/pluto.krastanov.org.ico",
     "slug": "pluto",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.04%",
     "time": 212,
     "timeDay": 276,
     "timeWeek": 211,
     "timeMonth": 214,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2023-06-26": 2,
       "2023-05-08": 1092,
       "2023-05-07": 311
     }
@@ -103,18 +106,19 @@
     "url": "https://oqe.nonlocally.org",
     "icon": "https://icons.duckduckgo.com/ip3/oqe.nonlocally.org.ico",
     "slug": "mit-oqe",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.04%",
     "time": 446,
     "timeDay": 543,
     "timeWeek": 320,
     "timeMonth": 515,
     "timeYear": 446,
     "dailyMinutesDown": {
+      "2023-06-26": 2,
       "2023-05-08": 1092,
       "2023-05-07": 311
     }
@@ -124,18 +128,19 @@
     "url": "https://umass-qnet.nonlocally.org",
     "icon": "https://icons.duckduckgo.com/ip3/umass-qnet.nonlocally.org.ico",
     "slug": "u-mass-q-net",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.05%",
     "time": 350,
     "timeDay": 349,
     "timeWeek": 237,
     "timeMonth": 403,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2023-06-26": 1,
       "2023-05-08": 1092,
       "2023-05-07": 310
     }
@@ -145,10 +150,10 @@
     "url": "https://areweentangledyet.com",
     "icon": "https://icons.duckduckgo.com/ip3/areweentangledyet.com.ico",
     "slug": "are-we-entangled-yet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
@@ -156,16 +161,18 @@
     "timeWeek": 198,
     "timeMonth": 191,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 1
+    }
   },
   {
     "name": "Quantikz",
     "url": "https://quantikz.krastanov.org/",
     "icon": "https://icons.duckduckgo.com/ip3/quantikz.krastanov.org.ico",
     "slug": "quantikz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -174,6 +181,8 @@
     "timeWeek": 216,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-26": 0
+    }
   }
 ]
