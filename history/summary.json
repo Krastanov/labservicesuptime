@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 323,
+    "timeDay": 237,
     "timeWeek": 364,
-    "timeMonth": 355,
+    "timeMonth": 354,
     "timeYear": 371,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 204,
-    "timeWeek": 239,
-    "timeMonth": 235,
+    "time": 209,
+    "timeDay": 240,
+    "timeWeek": 240,
+    "timeMonth": 236,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/presentations.krastanov.org.ico",
     "slug": "presentations",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "72.62%",
     "uptimeMonth": "93.70%",
     "uptimeYear": "98.94%",
     "time": 314,
-    "timeDay": 329,
-    "timeWeek": 311,
-    "timeMonth": 303,
-    "timeYear": 310,
+    "timeDay": 292,
+    "timeWeek": 333,
+    "timeMonth": 302,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2024-10-09": 943,
       "2024-10-08": 1440,
@@ -59,8 +59,7 @@
       "2024-06-13": 63,
       "2024-01-25": 58,
       "2023-10-17": 858,
-      "2023-10-16": 1440,
-      "2023-10-15": 200
+      "2023-10-16": 1440
     }
   },
   {
@@ -75,8 +74,8 @@
     "uptimeMonth": "93.70%",
     "uptimeYear": "98.94%",
     "time": 363,
-    "timeDay": 252,
-    "timeWeek": 286,
+    "timeDay": 248,
+    "timeWeek": 301,
     "timeMonth": 349,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -87,8 +86,7 @@
       "2024-06-13": 63,
       "2024-01-25": 58,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 200
+      "2023-10-16": 1440
     }
   },
   {
@@ -103,10 +101,10 @@
     "uptimeMonth": "93.70%",
     "uptimeYear": "98.94%",
     "time": 264,
-    "timeDay": 167,
+    "timeDay": 252,
     "timeWeek": 247,
     "timeMonth": 263,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2024-10-09": 943,
       "2024-10-08": 1440,
@@ -115,8 +113,7 @@
       "2024-06-13": 62,
       "2024-01-25": 57,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 199
+      "2023-10-16": 1440
     }
   },
   {
@@ -131,8 +128,8 @@
     "uptimeMonth": "93.70%",
     "uptimeYear": "98.94%",
     "time": 343,
-    "timeDay": 262,
-    "timeWeek": 315,
+    "timeDay": 302,
+    "timeWeek": 339,
     "timeMonth": 319,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -143,8 +140,7 @@
       "2024-06-13": 62,
       "2024-01-25": 57,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 199
+      "2023-10-16": 1440
     }
   },
   {
@@ -159,8 +155,8 @@
     "uptimeMonth": "93.70%",
     "uptimeYear": "98.94%",
     "time": 302,
-    "timeDay": 287,
-    "timeWeek": 275,
+    "timeDay": 236,
+    "timeWeek": 268,
     "timeMonth": 305,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -171,8 +167,7 @@
       "2024-06-13": 61,
       "2024-01-25": 56,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 198
+      "2023-10-16": 1440
     }
   },
   {
@@ -181,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/areweentangledyet.com.ico",
     "slug": "are-we-entangled-yet",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "72.65%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "98.94%",
     "time": 226,
-    "timeDay": 183,
-    "timeWeek": 198,
-    "timeMonth": 212,
+    "timeDay": 167,
+    "timeWeek": 199,
+    "timeMonth": 211,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2024-10-09": 944,
@@ -199,8 +194,7 @@
       "2024-06-13": 61,
       "2024-01-25": 56,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 198
+      "2023-10-16": 1440
     }
   },
   {
@@ -214,10 +208,10 @@
     "uptimeWeek": "72.65%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "98.94%",
-    "time": 249,
-    "timeDay": 182,
-    "timeWeek": 246,
-    "timeMonth": 252,
+    "time": 248,
+    "timeDay": 95,
+    "timeWeek": 228,
+    "timeMonth": 251,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2024-10-09": 944,
@@ -227,8 +221,7 @@
       "2024-06-13": 60,
       "2024-01-25": 55,
       "2023-10-17": 848,
-      "2023-10-16": 1440,
-      "2023-10-15": 197
+      "2023-10-16": 1440
     }
   }
 ]
