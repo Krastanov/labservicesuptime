@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.krastanov.org.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 365,
     "timeDay": 602,
     "timeWeek": 368,
     "timeMonth": 355,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-12-18": 0
+      "2024-12-19": 25,
+      "2024-12-18": 37
     }
   },
   {
