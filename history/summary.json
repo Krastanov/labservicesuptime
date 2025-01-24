@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 366,
-    "timeDay": 273,
-    "timeWeek": 421,
-    "timeMonth": 367,
-    "timeYear": 363,
+    "time": 365,
+    "timeDay": 240,
+    "timeWeek": 364,
+    "timeMonth": 354,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2024-12-20": 25,
       "2024-12-19": 166,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 236,
-    "timeWeek": 277,
-    "timeMonth": 237,
+    "timeDay": 250,
+    "timeWeek": 249,
+    "timeMonth": 228,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 323,
-    "timeDay": 262,
-    "timeWeek": 333,
-    "timeMonth": 323,
-    "timeYear": 332,
+    "timeDay": 284,
+    "timeWeek": 294,
+    "timeMonth": 313,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-12-20": 25,
       "2024-11-18": 20,
@@ -62,8 +62,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 376,
       "2024-07-30": 202,
-      "2024-06-13": 63,
-      "2024-01-25": 58
+      "2024-06-13": 63
     }
   },
   {
@@ -72,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jupyter.krastanov.org.ico",
     "slug": "jupyter",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 361,
-    "timeDay": 284,
-    "timeWeek": 368,
-    "timeMonth": 358,
-    "timeYear": 365,
+    "timeDay": 299,
+    "timeWeek": 337,
+    "timeMonth": 348,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2024-12-20": 24,
       "2024-11-26": 20,
@@ -90,8 +89,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 376,
       "2024-07-30": 202,
-      "2024-06-13": 63,
-      "2024-01-25": 58
+      "2024-06-13": 63
     }
   },
   {
@@ -100,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pluto.krastanov.org.ico",
     "slug": "pluto",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 272,
-    "timeDay": 197,
-    "timeWeek": 304,
-    "timeMonth": 379,
-    "timeYear": 272,
+    "timeDay": 204,
+    "timeWeek": 272,
+    "timeMonth": 372,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2024-12-20": 24,
       "2024-11-18": 19,
@@ -117,8 +115,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 375,
       "2024-07-30": 201,
-      "2024-06-13": 62,
-      "2024-01-25": 57
+      "2024-06-13": 62
     }
   },
   {
@@ -127,16 +124,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oqe.nonlocally.org.ico",
     "slug": "mit-oqe",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 344,
-    "timeDay": 225,
-    "timeWeek": 338,
-    "timeMonth": 321,
-    "timeYear": 349,
+    "timeDay": 242,
+    "timeWeek": 322,
+    "timeMonth": 319,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2024-12-20": 23,
       "2024-11-18": 18,
@@ -144,8 +141,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 375,
       "2024-07-30": 201,
-      "2024-06-13": 62,
-      "2024-01-25": 57
+      "2024-06-13": 62
     }
   },
   {
@@ -154,16 +150,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/umass-qnet.nonlocally.org.ico",
     "slug": "u-mass-q-net",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 311,
-    "timeDay": 282,
-    "timeWeek": 364,
-    "timeMonth": 324,
-    "timeYear": 320,
+    "timeDay": 292,
+    "timeWeek": 331,
+    "timeMonth": 317,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2024-12-20": 23,
       "2024-11-18": 18,
@@ -171,8 +167,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 374,
       "2024-07-30": 200,
-      "2024-06-13": 61,
-      "2024-01-25": 56
+      "2024-06-13": 61
     }
   },
   {
@@ -181,16 +176,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/areweentangledyet.com.ico",
     "slug": "are-we-entangled-yet",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 210,
-    "timeDay": 81,
-    "timeWeek": 218,
-    "timeMonth": 198,
-    "timeYear": 211,
+    "timeDay": 157,
+    "timeWeek": 189,
+    "timeMonth": 193,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2024-12-20": 22,
       "2024-11-18": 17,
@@ -198,8 +193,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 374,
       "2024-07-30": 200,
-      "2024-06-13": 61,
-      "2024-01-25": 56
+      "2024-06-13": 61
     }
   },
   {
@@ -213,9 +207,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 243,
-    "timeDay": 245,
-    "timeWeek": 281,
+    "time": 244,
+    "timeDay": 261,
+    "timeWeek": 290,
     "timeMonth": 267,
     "timeYear": 251,
     "dailyMinutesDown": {
@@ -225,8 +219,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 373,
       "2024-07-30": 199,
-      "2024-06-13": 60,
-      "2024-01-25": 55
+      "2024-06-13": 60
     }
   }
 ]
