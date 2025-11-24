@@ -1,7 +1,7 @@
 url: https://pluto.krastanov.org
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2025-11-23T23:03:23.572Z
+status: down
+code: 500
+responseTime: 427
+lastUpdated: 2025-11-24T19:04:07.151Z
 startTime: 2023-05-07T18:48:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
