@@ -1,7 +1,7 @@
 url: https://jupyter.krastanov.org
-status: up
-code: 200
-responseTime: 247
-lastUpdated: 2026-01-12T23:03:20.604Z
+status: down
+code: 502
+responseTime: 194
+lastUpdated: 2026-01-13T12:16:12.583Z
 startTime: 2023-05-07T18:47:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
