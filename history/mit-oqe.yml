@@ -1,7 +1,7 @@
 url: https://oqe.nonlocally.org
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2026-09-27T01:03:42.324Z
+status: down
+code: 502
+responseTime: 3145
+lastUpdated: 2026-09-27T23:14:49.957Z
 startTime: 2023-05-07T18:48:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
