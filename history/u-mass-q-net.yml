@@ -1,7 +1,7 @@
 url: https://umass-qnet.nonlocally.org
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2026-09-27T01:03:42.620Z
+status: down
+code: 502
+responseTime: 3158
+lastUpdated: 2026-09-27T23:15:13.223Z
 startTime: 2023-05-07T18:49:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
